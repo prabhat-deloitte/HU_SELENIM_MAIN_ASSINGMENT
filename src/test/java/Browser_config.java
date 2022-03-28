@@ -9,6 +9,7 @@ public class Browser_config {
     public  static  WebDriver Driver_setup(){
         System.setProperty("WebDriver.chrome.driver", "C:\\Users\\praparihar\\IdeaProjects\\Main_Assignment_Selenium_Track\\chromedriver.exe");
         driver = new ChromeDriver();
+        driver.manage().window().maximize();
         return driver;
     }
 }

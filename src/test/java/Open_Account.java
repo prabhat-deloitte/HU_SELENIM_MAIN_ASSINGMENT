@@ -5,14 +5,13 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
 public class Open_Account extends Browser_config {
-    By Open_account = By.xpath("//button[@class='btn btn-lg tab btn-primary']");
+    By Open_account = By.xpath("(//button[@class='btn btn-lg tab'])[1]");
     By Customer_dropdown = By.xpath("//select[@name = 'userSelect']");
     By currency_type = By.xpath(("//select[@name = 'currency']"));
     By process_button = By.xpath("//button[text()='Process']");
@@ -50,6 +49,7 @@ public class Open_Account extends Browser_config {
 
                 }list1.add(first_name);
                 list1.add(Last_name);
+
 
 
             }
