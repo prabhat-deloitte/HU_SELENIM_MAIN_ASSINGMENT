@@ -1,0 +1,17 @@
+[INFO ] 2022-03-29 01:45:42.449 [main] log4j_file - The Test cLick_customer started
+[INFO ] 2022-03-29 01:45:45.052 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
+[INFO ] 2022-03-29 01:45:45.056 [main] log4j_file - The Test click_manager started
+[INFO ] 2022-03-29 01:45:46.075 [main] log4j_file - The Screenshot is Taken for success of  click_manager
+[INFO ] 2022-03-29 01:45:46.075 [main] log4j_file - The Test Add_Customer started
+[INFO ] 2022-03-29 01:45:48.640 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
+[INFO ] 2022-03-29 01:45:48.641 [main] log4j_file - The Test Open_Account started
+[INFO ] 2022-03-29 01:45:52.394 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
+[INFO ] 2022-03-29 01:45:52.404 [main] log4j_file - The Test Check_deposit started
+[INFO ] 2022-03-29 01:45:54.698 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
+[INFO ] 2022-03-29 01:45:54.699 [main] log4j_file - The Test Check_Withdrawals started
+[INFO ] 2022-03-29 01:46:05.122 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
+[INFO ] 2022-03-29 01:46:05.123 [main] log4j_file - The Test Check_Invalid_withdraw started
+[INFO ] 2022-03-29 01:46:15.526 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
+[INFO ] 2022-03-29 01:46:15.526 [main] log4j_file - The Test Check_transaction started
+[INFO ] 2022-03-29 01:46:16.025 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
+[INFO ] 2022-03-29 01:46:16.268 [main] log4j_file - The Testing is Completed
