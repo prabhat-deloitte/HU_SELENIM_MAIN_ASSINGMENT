@@ -60,10 +60,10 @@ public class main_test extends Browser_config {
                 driver.switchTo().alert().accept();
             }
 
-        }deposit.Click_home().click();
+        }
 
     }
-    @Test(priority = 5)
+    @Test(priority = 5,dependsOnMethods = {"Open_Account"})
     public void Check_deposit(){
 
         //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -133,7 +133,7 @@ public class main_test extends Browser_config {
 
     }
 
-    //@AfterTest
+    @AfterTest
     public void Close(){
         driver.quit();
      }}
