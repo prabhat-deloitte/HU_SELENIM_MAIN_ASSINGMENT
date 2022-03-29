@@ -15,18 +15,21 @@ import java.util.concurrent.TimeUnit;
 
 import static org.testng.Assert.assertTrue;
 
-public class main_test extends Browser_config {
+public class main_test extends Browser_config  {
+
     Home_Page home = new Home_Page();
     Add_customer customer = new Add_customer();
     Open_Account account = new Open_Account();
     Deposit_dollars deposit = new Deposit_dollars();
     Withdrawl_dollars withdraw = new Withdrawl_dollars();
     Transaction tran = new Transaction();
+
     @Test(priority =1)
     public void cLick_customer()
     {   driver.get(home.url);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         home.click_customer();
+
     }
      @Test(priority =2 )
     public void click_manager(){
@@ -46,9 +49,6 @@ public class main_test extends Browser_config {
     }
     @Test(priority  =4)
     public void Open_Account(){
-        /*driver.get(home.url);
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        home.click_manager();*/
         account.Click_Open_account().click();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         for(int i = 0; i<account.read_data().size(); i+=2) {
@@ -135,6 +135,7 @@ public class main_test extends Browser_config {
 
     @AfterTest
     public void Close(){
+
         driver.quit();
      }}
 

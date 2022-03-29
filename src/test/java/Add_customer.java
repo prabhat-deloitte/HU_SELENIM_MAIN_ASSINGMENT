@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
+
 public class Add_customer extends Browser_config{
    // WebDriver driver = Browser_config.Driver_setup();
     By add_customer = By.xpath("(//button[@class = \"btn btn-lg tab\"])[1]");
