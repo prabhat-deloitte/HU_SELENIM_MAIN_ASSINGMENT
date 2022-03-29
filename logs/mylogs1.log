@@ -1,77 +1,10 @@
-[INFO ] 2022-03-29 01:45:42.449 [main] log4j_file - The Test cLick_customer started
-[INFO ] 2022-03-29 01:45:45.052 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 01:45:45.056 [main] log4j_file - The Test click_manager started
-[INFO ] 2022-03-29 01:45:46.075 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 01:45:46.075 [main] log4j_file - The Test Add_Customer started
-[INFO ] 2022-03-29 01:45:48.640 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 01:45:48.641 [main] log4j_file - The Test Open_Account started
-[INFO ] 2022-03-29 01:45:52.394 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 01:45:52.404 [main] log4j_file - The Test Check_deposit started
-[INFO ] 2022-03-29 01:45:54.698 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 01:45:54.699 [main] log4j_file - The Test Check_Withdrawals started
-[INFO ] 2022-03-29 01:46:05.122 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 01:46:05.123 [main] log4j_file - The Test Check_Invalid_withdraw started
-[INFO ] 2022-03-29 01:46:15.526 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 01:46:15.526 [main] log4j_file - The Test Check_transaction started
-[INFO ] 2022-03-29 01:46:16.025 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 01:46:16.268 [main] log4j_file - The Testing is Completed
-[INFO ] 2022-03-29 10:21:58.141 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
-[INFO ] 2022-03-29 10:22:01.884 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 10:22:02.232 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 10:22:06.614 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 10:22:10.865 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 10:22:14.703 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 10:22:25.632 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 10:22:36.402 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 10:22:37.211 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 10:22:37.475 [main] log4j_file - The Testing is Completed
-[INFO ] 2022-03-29 10:48:33.087 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
-[INFO ] 2022-03-29 10:48:36.203 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 10:48:36.623 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 10:48:40.427 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 10:48:45.408 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 10:48:49.031 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 10:48:59.995 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 10:49:10.760 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 10:49:11.636 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 10:49:11.893 [main] log4j_file - The Testing is Completed
-[INFO ] 2022-03-29 10:55:00.746 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
-[INFO ] 2022-03-29 10:55:04.966 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 10:55:06.005 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 10:55:09.764 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 10:55:13.980 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 10:55:18.016 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 10:55:28.961 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 10:55:39.845 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 10:55:40.619 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 10:55:40.840 [main] log4j_file - The Testing is Completed
-[INFO ] 2022-03-29 11:01:03.654 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
-[INFO ] 2022-03-29 11:01:07.516 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 11:01:07.893 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 11:01:11.080 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 11:01:15.702 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 11:01:19.616 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 11:01:30.479 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 11:01:41.284 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 11:01:42.042 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 11:01:42.668 [main] log4j_file - The Testing is Completed
-[INFO ] 2022-03-29 11:25:36.526 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
-[INFO ] 2022-03-29 11:25:40.169 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 11:25:41.206 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 11:25:44.855 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 11:25:49.148 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 11:25:53.093 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 11:26:04.059 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 11:26:14.891 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 11:26:15.606 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 11:26:16.137 [main] log4j_file - The Testing is Completed
-[INFO ] 2022-03-29 11:27:54.137 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
-[INFO ] 2022-03-29 11:27:57.220 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
-[INFO ] 2022-03-29 11:27:58.066 [main] log4j_file - The Screenshot is Taken for success of  click_manager
-[INFO ] 2022-03-29 11:28:01.565 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
-[INFO ] 2022-03-29 11:28:05.804 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
-[INFO ] 2022-03-29 11:28:09.751 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
-[INFO ] 2022-03-29 11:28:20.375 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
-[INFO ] 2022-03-29 11:28:30.710 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
-[INFO ] 2022-03-29 11:28:31.225 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
-[INFO ] 2022-03-29 11:28:31.572 [main] log4j_file - The Testing is Completed
+[INFO ] 2022-03-29 12:19:54.470 [main] log4j_file - The Test C:\Users\praparihar\IdeaProjects\Main_Assignment_Selenium_Track started
+[INFO ] 2022-03-29 12:19:56.213 [main] log4j_file - The Screenshot is Taken for success of  cLick_customer
+[INFO ] 2022-03-29 12:19:56.784 [main] log4j_file - The Screenshot is Taken for success of  click_manager
+[INFO ] 2022-03-29 12:19:58.221 [main] log4j_file - The Screenshot is Taken for success of  Add_Customer
+[INFO ] 2022-03-29 12:20:00.236 [main] log4j_file - The Screenshot is Taken for success of  Open_Account
+[INFO ] 2022-03-29 12:20:02.171 [main] log4j_file - The Screenshot is Taken for success of  Check_deposit
+[INFO ] 2022-03-29 12:20:12.538 [main] log4j_file - The Screenshot is Taken for success of  Check_Withdrawals
+[INFO ] 2022-03-29 12:20:22.903 [main] log4j_file - The Screenshot is Taken for success of  Check_Invalid_withdraw
+[INFO ] 2022-03-29 12:20:23.429 [main] log4j_file - The Screenshot is Taken for success of  Check_transaction
+[INFO ] 2022-03-29 12:20:23.814 [main] log4j_file - The Testing is Completed

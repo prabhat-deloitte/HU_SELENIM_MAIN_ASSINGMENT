@@ -1,7 +1,5 @@
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.reporter.ExtentSparkReporter;
-import com.aventstack.extentreports.reporter.configuration.Theme;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -16,7 +14,6 @@ import java.io.IOException;
 
 public class Test_ng_Listner extends  Browser_config implements ITestListener {
     log4j_file log = new log4j_file();
-    Extent_Manager manager =new Extent_Manager();
     public static ExtentReports extent;
     public static ExtentTest test;
 
